@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi 👋, I'm Asad Rafi
+MERN stack dev || Creative Front-end developer
+asadrafi1221
 
-<!--
-**asadkhan2006/asadkhan2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Personal Projects
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on MERN stack and award winning sites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I’m looking for help with System Design
+
+💬 Ask me about REACT,CSS,HTML,NODEJS,GSAP,LENNIS,LOCOMOTIVE,FRAMER,EXPRESS,REDUX
+
+📫 How to reach me asadrafi1221@gmail.com
+
+⚡ Fun fact I am always learning and try to create something out of the box .
+
+Connect with me:
+
+Languages and Tools:
+bootstrap c cplusplus css3 express html5 javascript linux nginx nodejs python react redux tailwind
+
+asadrafi1221
+
+ asadrafi1221
+
+asadrafi1221
